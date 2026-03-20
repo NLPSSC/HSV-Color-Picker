@@ -1,0 +1,5 @@
+{
+    "files.exclude": {
+        "**/.conda_env": true
+    }
+}
